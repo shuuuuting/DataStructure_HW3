@@ -1,0 +1,25 @@
+﻿Build started 2017/12/14 下午 11:17:06.
+Project "C:\Users\tink1\Desktop\calculatorC++\FinalPrj_Calculator\Calculator\Calculator.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Debug\Calculator.unsuccessfulbuild" because "AlwaysCreate" was specified.
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+ClCompile:
+  All outputs are up-to-date.
+  All outputs are up-to-date.
+  All outputs are up-to-date.
+CoreResGen:
+  No resources are out of date with respect to their source files. Skipping resource generation.
+ResourceCompile:
+  All outputs are up-to-date.
+Link:
+  All outputs are up-to-date.
+  Calculator.vcxproj -> C:\Users\tink1\Desktop\calculatorC++\FinalPrj_Calculator\Debug\Calculator.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\Calculator.unsuccessfulbuild".
+  Touching "Debug\Calculator.lastbuildstate".
+Done Building Project "C:\Users\tink1\Desktop\calculatorC++\FinalPrj_Calculator\Calculator\Calculator.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00
